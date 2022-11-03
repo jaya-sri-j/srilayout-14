@@ -1,0 +1,217 @@
+.wrapper
+{
+	display:auto;
+	width:1100px;
+}
+.banner
+{
+	background-color:orange;
+	height:414px;
+	color:black;
+}
+.banner .banner-fc
+{
+	display:flex;
+	
+	align-items:center;
+	flex-wrap:wrap;
+	flex-direction:column;
+}
+.banner .banner-fc .text
+{
+
+
+ width:751px;
+ height:130px;
+ margin-top:40px;
+ background-color:orange;
+ text-align:center;
+} 
+.banner .banner-fc .xA
+{
+ width:178px;
+ height:68px;
+ margin-top:60px;
+ background-color:skyblue;
+}
+.footer 
+{
+    height:80px;
+    background-color:white;
+    color:black;
+    text-align:center;
+	padding:20px;
+	margin-right:120px;
+	
+}
+.Bootstrap
+{
+ background-color:white;
+ height:208px;
+ color:silver;
+}
+.Bootstrap .Bootstrap-fc
+{
+ display:flex;
+ justify-content:center;
+ margin-top:10px;
+}
+.Bootstrap .Bootstrap-fc .textA
+{
+ width:393px;
+ height:64px;
+ margin-top:100px;
+ text-align:center;
+ background-color:black;
+ color:white;
+}
+.contact  
+{
+ background-color:paleturquoise;
+ height:400px;
+ margin-top:20px;
+ padding:20px;
+ padding-right:20px;
+ 
+}
+.contact .contact-fc
+{
+ display:flex;
+ flex-direction:row;
+ justify-content:space-evenly;
+ margin-top:100px;
+ padding:5px;
+}
+.contact .contact-fc .xA
+{
+ width:200px;
+ height:205px;
+ background-color:white;
+ 
+}
+.contact .contact-fc .xB
+{
+ width:200px;
+ height:205px;
+ background-color:white;
+ 
+}
+.contact .contact-fc .xC
+{
+ width:200px;
+ height:205px;
+ background-color:white;
+}
+.contact .contact-fc .xD
+{
+ width:200px;
+ height:205px;
+ background-color:white;
+}
+.banner1
+{
+	background-color:orange;
+	height:414px;
+	color:black;
+}
+.banner1 .banner1-fc
+{
+	display:flex;
+	
+	align-items:center;
+	flex-wrap:wrap;
+	flex-direction:column;
+}
+.banner1 .banner1-fc .text
+{
+
+
+ width:751px;
+ height:130px;
+ margin-top:40px;
+ background-color:orange;
+ text-align:center;
+} 
+.banner1 .banner1-fc .xA
+{
+ width:178px;
+ height:68px;
+ margin-top:60px;
+ background-color:skyblue;
+}
+.Shoreline
+{
+ height:900px;
+ background-color:pink;
+ 
+}
+.Shoreline .Shoreline-fc
+{
+ display:flex;
+ justify-content:space-evenly;
+ flex-wrap:wrap;
+ padding-left:60px;
+ 
+}
+.Shoreline .Shoreline-fc .xA
+{
+ width:420px;
+ height:200px;
+ margin-top:180px;
+ background-color:white;
+}
+.Shoreline .Shoreline-fc .xB
+{
+ width:420px;
+ height:200px;
+ margin-top:180px;
+ background-color:white;
+} 
+.Shoreline .Shoreline-fc .xC
+{
+ width:420px;
+ height:200px;
+ margin-top:180px;
+ background-color:white;
+} 
+.Shoreline .Shoreline-fc .xD
+{
+ width:420px;
+ height:187px;
+ margin-top:180px;
+ background-color:white;
+} 
+.header
+{
+	 background-color:silver;
+	 height:200px;
+	 color:silver;
+}
+.header .header-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+}
+.header .header-fc .header-left
+{
+	 background-color:white;
+	 height:44px;
+	 width:200px; 
+	 margin-left:250px;
+	 margin-top:120px;
+}
+.header .header-fc .header-right
+{
+	 background-color:white;
+	 height:44px;
+	 width:200px; 
+	 margin-top:120px;
+	 margin-right:240px;
+}
+.header1
+{
+	 background-color:skyblue;
+	 height:200px;
+	 color:silver;
+}
